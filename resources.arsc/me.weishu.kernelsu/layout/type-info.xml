@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<type id="0x07">
+    <entry id="0x7f070001" name="ime_base_split_test_activity" />
+    <entry id="0x7f070002" name="ime_secondary_split_test_activity" />
+    <entry id="0x7f070003" name="notification_action" />
+    <entry id="0x7f070004" name="notification_action_tombstone" />
+    <entry id="0x7f070005" name="notification_template_custom_big" />
+    <entry id="0x7f070006" name="notification_template_icon_group" />
+    <entry id="0x7f070007" name="notification_template_part_chronometer" />
+    <entry id="0x7f070008" name="notification_template_part_time" />
+</type>

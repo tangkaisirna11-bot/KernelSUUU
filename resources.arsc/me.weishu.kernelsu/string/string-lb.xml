@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+    <string name="scd_list_dialog_max_choices">Wielt maximal %1$d Optiounen aus</string>
+    <string name="scd_list_dialog_min_choices">Wielt mindestens %1$d Optiounen aus.</string>
+</resources>

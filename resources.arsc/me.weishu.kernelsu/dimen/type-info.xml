@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<type id="0x03">
+    <entry id="0x7f030000" name="compat_button_inset_horizontal_material" />
+    <entry id="0x7f030001" name="compat_button_inset_vertical_material" />
+    <entry id="0x7f030002" name="compat_button_padding_horizontal_material" />
+    <entry id="0x7f030003" name="compat_button_padding_vertical_material" />
+    <entry id="0x7f030004" name="compat_control_corner_material" />
+    <entry id="0x7f030007" name="notification_action_icon_size" />
+    <entry id="0x7f030008" name="notification_action_text_size" />
+    <entry id="0x7f030009" name="notification_big_circle_margin" />
+    <entry id="0x7f03000a" name="notification_content_margin_start" />
+    <entry id="0x7f03000b" name="notification_large_icon_height" />
+    <entry id="0x7f03000c" name="notification_large_icon_width" />
+    <entry id="0x7f03000d" name="notification_main_column_padding_top" />
+    <entry id="0x7f03000e" name="notification_media_narrow_margin" />
+    <entry id="0x7f03000f" name="notification_right_icon_size" />
+    <entry id="0x7f030010" name="notification_right_side_padding_top" />
+    <entry id="0x7f030011" name="notification_small_icon_background_padding" />
+    <entry id="0x7f030012" name="notification_small_icon_size_as_large" />
+    <entry id="0x7f030013" name="notification_subtext_size" />
+    <entry id="0x7f030014" name="notification_top_pad" />
+    <entry id="0x7f030015" name="notification_top_pad_large_text" />
+    <entry id="0x7f030016" name="profile_badge_size" />
+    <entry id="0x7f030017" name="scd_dynamic_content_max_height" />
+    <entry id="0x7f030020" name="scd_normal_100" />
+    <entry id="0x7f030022" name="scd_normal_150" />
+    <entry id="0x7f030024" name="scd_size_100" />
+    <entry id="0x7f030026" name="scd_size_150" />
+    <entry id="0x7f03002f" name="scd_size_50" />
+    <entry id="0x7f030030" name="scd_small_100" />
+    <entry id="0x7f030032" name="scd_small_150" />
+    <entry id="0x7f030034" name="scd_small_50" />
+</type>

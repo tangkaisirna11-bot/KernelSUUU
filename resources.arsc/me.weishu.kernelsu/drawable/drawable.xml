@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+    <path name="abc_vector_test">res/hq.xml</path>
+    <path name="ic_launcher_foreground">res/Qr.xml</path>
+    <path name="ic_launcher_monochrome">res/Vy.xml</path>
+    <path name="notification_action_background">res/Ws.xml</path>
+    <path name="notification_bg">res/nz.xml</path>
+    <path name="notification_bg_low">res/df.xml</path>
+    <path name="notification_icon_background">res/c6.xml</path>
+    <color name="notification_template_icon_bg">#3333b5e5</color>
+    <color name="notification_template_icon_low_bg">#0cffffff</color>
+    <path name="notification_tile_bg">res/9m.xml</path>
+</resources>

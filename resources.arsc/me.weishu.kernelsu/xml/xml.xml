@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+    <path name="_generated_res_locale_config">res/Ed.xml</path>
+    <path name="backup_rules">res/Qq.xml</path>
+    <path name="data_extraction_rules">res/4j.xml</path>
+    <path name="filepaths">res/oS.xml</path>
+    <path name="network_security_config">res/8G.xml</path>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<type id="0x0a">
+    <entry id="0x7f0a0000" name="DialogWindowTheme" />
+    <entry id="0x7f0a0001" name="EdgeToEdgeFloatingDialogTheme" />
+    <entry id="0x7f0a0002" name="EdgeToEdgeFloatingDialogWindowTheme" />
+    <entry id="0x7f0a0003" name="FloatingDialogTheme" />
+    <entry id="0x7f0a0004" name="FloatingDialogWindowTheme" />
+    <entry id="0x7f0a0005" name="TextAppearance.Compat.Notification" />
+    <entry id="0x7f0a0006" name="TextAppearance.Compat.Notification.Info" />
+    <entry id="0x7f0a0007" name="TextAppearance.Compat.Notification.Line2" />
+    <entry id="0x7f0a0008" name="TextAppearance.Compat.Notification.Time" />
+    <entry id="0x7f0a0009" name="TextAppearance.Compat.Notification.Title" />
+    <entry id="0x7f0a000a" name="Theme.KernelSU" />
+    <entry id="0x7f0a000b" name="Theme.KernelSU.WebUI" />
+    <entry id="0x7f0a000c" name="Widget.Compat.NotificationActionContainer" />
+    <entry id="0x7f0a000d" name="Widget.Compat.NotificationActionText" />
+</type>

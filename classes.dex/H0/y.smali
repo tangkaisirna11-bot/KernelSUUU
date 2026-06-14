@@ -1,0 +1,31 @@
+.class public abstract Lh0/y;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+
+# static fields
+.field public static final a:F
+
+
+# direct methods
+.method static constructor <clinit>()V
+    .registers 1
+
+    const/high16 v0, 0x3f800000  # 1.0f
+
+    invoke-static {v0}, Ljava/lang/Float;->floatToRawIntBits(F)I
+
+    const/high16 v0, -0x40800000  # -1.0f
+
+    invoke-static {v0}, Ljava/lang/Float;->floatToRawIntBits(F)I
+
+    const/high16 v0, 0x3f000000  # 0.5f
+
+    invoke-static {v0}, Ljava/lang/Float;->intBitsToFloat(I)F
+
+    move-result v0
+
+    sput v0, Lh0/y;->a:F
+
+    return-void
+.end method

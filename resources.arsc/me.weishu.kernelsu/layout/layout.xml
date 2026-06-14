@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+    <path name="ime_base_split_test_activity">res/cr.xml</path>
+    <path name="ime_secondary_split_test_activity">res/4z.xml</path>
+    <path name="notification_action">res/S8.xml</path>
+    <path name="notification_action_tombstone">res/a0.xml</path>
+    <path name="notification_template_custom_big">res/xN.xml</path>
+    <path name="notification_template_icon_group">res/iQ.xml</path>
+    <path name="notification_template_part_chronometer">res/lR.xml</path>
+    <path name="notification_template_part_time">res/cV.xml</path>
+</resources>

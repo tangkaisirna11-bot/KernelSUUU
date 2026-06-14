@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<type id="0x04">
+    <entry id="0x7f040000" name="abc_vector_test" />
+    <entry id="0x7f040009" name="ic_launcher_foreground" />
+    <entry id="0x7f04000a" name="ic_launcher_monochrome" />
+    <entry id="0x7f04000b" name="notification_action_background" />
+    <entry id="0x7f04000c" name="notification_bg" />
+    <entry id="0x7f04000d" name="notification_bg_low" />
+    <entry id="0x7f04000e" name="notification_bg_low_normal" />
+    <entry id="0x7f04000f" name="notification_bg_low_pressed" />
+    <entry id="0x7f040010" name="notification_bg_normal" />
+    <entry id="0x7f040011" name="notification_bg_normal_pressed" />
+    <entry id="0x7f040012" name="notification_icon_background" />
+    <entry id="0x7f040013" name="notification_oversize_large_icon_bg" />
+    <entry id="0x7f040014" name="notification_template_icon_bg" />
+    <entry id="0x7f040015" name="notification_template_icon_low_bg" />
+    <entry id="0x7f040016" name="notification_tile_bg" />
+    <entry id="0x7f040017" name="notify_panel_notification_icon_bg" />
+</type>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+    <path name="notification_bg_low_normal">res/gK.9.png</path>
+    <path name="notification_bg_low_pressed">res/U-.9.png</path>
+    <path name="notification_bg_normal">res/C_.9.png</path>
+    <path name="notification_bg_normal_pressed">res/vL.9.png</path>
+    <path name="notify_panel_notification_icon_bg">res/s4.png</path>
+</resources>

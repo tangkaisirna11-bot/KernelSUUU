@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<type id="0x02">
+    <entry id="0x7f020000" name="androidx_core_ripple_material_light" />
+    <entry id="0x7f020001" name="androidx_core_secondary_text_default_material_light" />
+    <entry id="0x7f020002" name="call_notification_answer_color" />
+    <entry id="0x7f020003" name="call_notification_decline_color" />
+    <entry id="0x7f020004" name="ic_launcher_background" />
+    <entry id="0x7f020006" name="notification_action_color_filter" />
+    <entry id="0x7f020007" name="notification_icon_bg_color" />
+    <entry id="0x7f020008" name="vector_tint_color" />
+    <entry id="0x7f020009" name="vector_tint_theme_color" />
+</type>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+    <string name="call_notification_answer_action">ឆ្លើយ</string>
+    <string name="call_notification_answer_video_action">វីដេអូ</string>
+    <string name="call_notification_decline_action">បដិសេធ</string>
+    <string name="call_notification_hang_up_action">ដាក់​ចុះ</string>
+    <string name="call_notification_incoming_text">ការ​ហៅ​ចូល</string>
+    <string name="call_notification_ongoing_text">ការ​ហៅដែលកំពុងដំណើរការ</string>
+    <string name="call_notification_screening_text">កំពុងពិនិត្យការ​ហៅ​ចូល</string>
+    <string name="close_drawer">បិទម៉ឺនុយរុករក</string>
+    <string name="close_sheet">បិទសន្លឹក</string>
+    <string name="default_error_message">ការបញ្ចូល​មិនត្រឹមត្រូវ</string>
+    <string name="default_popup_window_title">វិនដូ​លោតឡើង</string>
+    <string name="in_progress">កំពុងដំណើរការ</string>
+    <string name="indeterminate">បានធីកខ្លះ</string>
+    <string name="m3c_bottom_sheet_collapse_description">បង្រួម​សន្លឹកខាងក្រោម</string>
+    <string name="m3c_bottom_sheet_dismiss_description">ច្រានចោល​សន្លឹកខាងក្រោម</string>
+    <string name="m3c_bottom_sheet_drag_handle_description">ដង​អូស</string>
+    <string name="m3c_bottom_sheet_expand_description">ពង្រីក​សន្លឹកខាងក្រោម</string>
+    <string name="m3c_bottom_sheet_pane_title">សន្លឹក​ខាងក្រោម</string>
+    <string name="m3c_dialog">ប្រអប់</string>
+    <string name="m3c_dropdown_menu_collapsed">បាន​បង្រួម</string>
+    <string name="m3c_dropdown_menu_expanded">បាន​ពង្រីក</string>
+    <string name="m3c_dropdown_menu_toggle">បិទ/បើកម៉ឺនុយ​ធ្លាក់​ចុះ</string>
+    <string name="m3c_snackbar_dismiss">ច្រានចោល</string>
+    <string name="navigation_menu">ម៉ឺនុយរុករក</string>
+    <string name="not_selected">មិនបាន​ជ្រើសរើស</string>
+    <string name="range_end">ចំណុចបញ្ចប់</string>
+    <string name="range_start">ចំណុចចាប់ផ្ដើម</string>
+    <string name="selected">បានជ្រើសរើស</string>
+    <string name="state_empty">ទទេ</string>
+    <string name="state_off">បិទ</string>
+    <string name="state_on">បើក</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="switch_role">ប៊ូតុង​បិទបើក</string>
+    <string name="tab">Tab</string>
+    <string name="template_percent">%1$d ភាគរយ។</string>
+    <string name="tooltip_description">កំណត់​ពន្យល់</string>
+    <string name="tooltip_label">បង្ហាញ​កំណត់​ពន្យល់</string>
+</resources>

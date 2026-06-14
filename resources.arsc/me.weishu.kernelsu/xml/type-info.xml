@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<type id="0x0c">
+    <entry id="0x7f0c0000" name="_generated_res_locale_config" />
+    <entry id="0x7f0c0001" name="backup_rules" />
+    <entry id="0x7f0c0002" name="data_extraction_rules" />
+    <entry id="0x7f0c0003" name="filepaths" />
+    <entry id="0x7f0c0004" name="network_security_config" />
+</type>

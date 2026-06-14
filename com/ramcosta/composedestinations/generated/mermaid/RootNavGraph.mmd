@@ -1,0 +1,21 @@
+---
+title: Root Navigation Graph
+---
+%%{init: {'theme':'base', 'themeVariables': { 'primaryTextColor': '#fff' }}%%
+graph TD
+root(["RootGraph"]) -- "start" --- home_screen("HomeScreen")
+root(["RootGraph"]) --- app_profile_screen("AppProfileScreen")
+root(["RootGraph"]) --- execute_module_action_screen("ExecuteModuleActionScreen")
+root(["RootGraph"]) --- flash_screen("FlashScreen")
+root(["RootGraph"]) --- install_screen("InstallScreen")
+root(["RootGraph"]) --- module_screen("ModuleScreen")
+root(["RootGraph"]) --- setting_screen("SettingScreen")
+root(["RootGraph"]) --- super_user_screen("SuperUserScreen")
+root(["RootGraph"]) --- app_profile_template_screen("AppProfileTemplateScreen")
+root(["RootGraph"]) --- template_editor_screen("TemplateEditorScreen")
+
+
+classDef destination fill:#5383EC,stroke:#ffffff;
+class app_profile_screen,execute_module_action_screen,flash_screen,home_screen,install_screen,module_screen,setting_screen,super_user_screen,app_profile_template_screen,template_editor_screen destination;
+classDef navgraph fill:#63BC76,stroke:#ffffff;
+class root navgraph;
