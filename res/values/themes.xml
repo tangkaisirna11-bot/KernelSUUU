@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema Utama (Dark + Lime) -->
+    <style name="Theme.KernelSUUU" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Warna Primary (Lime) -->
+        <item name="colorPrimary">@color/lime_primary</item>
+        <item name="colorPrimaryVariant">@color/lime_primary_variant</item>
+        <item name="colorOnPrimary">@color/dark_on_primary</item>
+
+        <!-- Warna Secondary (Lime Accent) -->
+        <item name="colorSecondary">@color/lime_accent</item>
+        <item name="colorOnSecondary">@color/dark_on_primary</item>
+
+        <!-- Latar Belakang -->
+        <item name="android:windowBackground">@color/dark_background</item>
+        <item name="android:colorBackground">@color/dark_surface</item>
+        <item name="android:textColor">@color/dark_on_surface</item>
+
+        <!-- Status Bar & ActionBar -->
+        <item name="android:statusBarColor">@color/dark_surface</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="colorSurface">@color/dark_surface</item>
+        <item name="colorOnSurface">@color/dark_on_surface</item>
+
+        <!-- Tombol dan Checkbox -->
+        <item name="colorControlNormal">@color/lime_accent</item>
+        <item name="colorControlActivated">@color/lime_primary</item>
+        <item name="colorControlHighlight">@color/ripple_lime</item>
+    </style>
+
+    <!-- Tema untuk Dialog -->
+    <style name="Theme.KernelSUUU.Dialog" parent="Theme.MaterialComponents.DayNight.Dialog">
+        <item name="android:windowBackground">@color/dark_surface</item>
+        <item name="android:textColor">@color/dark_on_surface</item>
+    </style>
+</resources>

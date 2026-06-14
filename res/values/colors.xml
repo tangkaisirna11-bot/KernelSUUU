@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna Limau (Lime) -->
+    <color name="lime_primary">#C8FF00</color>
+    <color name="lime_primary_variant">#A4FF00</color>
+    <color name="lime_accent">#88FF00</color>
+    <color name="lime_text">#E0FF4F</color>
+
+    <!-- Warna Dark Theme -->
+    <color name="dark_background">#121212</color>
+    <color name="dark_surface">#1E1E1E</color>
+    <color name="dark_on_surface">#E0E0E0</color>
+    <color name="dark_on_primary">#000000</color>
+
+    <!-- Warna untuk tombol dan interaksi -->
+    <color name="button_lime">#C8FF00</color>
+    <color name="button_pressed">#A4FF00</color>
+    <color name="ripple_lime">#66FF00</color>
+</resources>
